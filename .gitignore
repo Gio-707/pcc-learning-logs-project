@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.sqlite3
+command_to_use_venv.txt
+.env
